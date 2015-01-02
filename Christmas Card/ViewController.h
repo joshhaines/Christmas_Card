@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "NYCViewController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <NYCViewControllerDelegate>
 
+- (IBAction)recognizer:(UISwipeGestureRecognizer *)sender;
 
 @end
 

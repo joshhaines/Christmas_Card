@@ -15,6 +15,22 @@
 		154586DB1A3CB720005F9A7E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 154586DA1A3CB720005F9A7E /* Images.xcassets */; };
 		154586DE1A3CB720005F9A7E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 154586DC1A3CB720005F9A7E /* LaunchScreen.xib */; };
 		154586EA1A3CB720005F9A7E /* Christmas_CardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 154586E91A3CB720005F9A7E /* Christmas_CardTests.m */; };
+		154586F41A3CBC7C005F9A7E /* HomeChristmasTree.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 154586F31A3CBC7C005F9A7E /* HomeChristmasTree.jpg */; };
+		154586F61A3CC348005F9A7E /* NYC Christmas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 154586F51A3CC348005F9A7E /* NYC Christmas.jpg */; };
+		154586F91A3CC5F9005F9A7E /* NYCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 154586F81A3CC5F9005F9A7E /* NYCViewController.m */; };
+		154586FB1A3CEB61005F9A7E /* panda_friends_couple_christmas_sticker-ra755c015e1e54e9c8a68467fa3b048a7_v9wf3_8byvr_324.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 154586FA1A3CEB61005F9A7E /* panda_friends_couple_christmas_sticker-ra755c015e1e54e9c8a68467fa3b048a7_v9wf3_8byvr_324.jpg */; };
+		154586FE1A3CED10005F9A7E /* TextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 154586FD1A3CED10005F9A7E /* TextViewController.m */; };
+		154587001A3CF2F1005F9A7E /* Christmas Verse.png in Resources */ = {isa = PBXBuildFile; fileRef = 154586FF1A3CF2F1005F9A7E /* Christmas Verse.png */; };
+		154587021A3E3552005F9A7E /* NYC Christmas Tree.png in Resources */ = {isa = PBXBuildFile; fileRef = 154587011A3E3552005F9A7E /* NYC Christmas Tree.png */; };
+		154587041A3E3673005F9A7E /* Home Christmas Tree Cut.png in Resources */ = {isa = PBXBuildFile; fileRef = 154587031A3E3673005F9A7E /* Home Christmas Tree Cut.png */; };
+		154587071A464CCB005F9A7E /* PandaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 154587061A464CCB005F9A7E /* PandaViewController.m */; };
+		154587091A465075005F9A7E /* circle-512.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 154587081A465075005F9A7E /* circle-512.jpg */; };
+		1545870D1A466232005F9A7E /* panda head.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1545870C1A466232005F9A7E /* panda head.jpg */; };
+		1573FF3B1A50F8DB005ABE6F /* DifficultyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1573FF3A1A50F8DB005ABE6F /* DifficultyViewController.m */; };
+		15E18B4E1A471591006CE39E /* christmas tree 2014 cropped.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15E18B4D1A471591006CE39E /* christmas tree 2014 cropped.jpg */; };
+		15E18B501A487780006CE39E /* squirrel-head-md.png in Resources */ = {isa = PBXBuildFile; fileRef = 15E18B4F1A487780006CE39E /* squirrel-head-md.png */; };
+		15F08D9B1A466D4B002A2AD2 /* snowflakes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15F08D9A1A466D4B002A2AD2 /* snowflakes.jpg */; };
+		15F08D9D1A466D94002A2AD2 /* snowflakes flipped.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15F08D9C1A466D94002A2AD2 /* snowflakes flipped.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +58,26 @@
 		154586E31A3CB720005F9A7E /* Christmas CardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Christmas CardTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		154586E81A3CB720005F9A7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		154586E91A3CB720005F9A7E /* Christmas_CardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Christmas_CardTests.m; sourceTree = "<group>"; };
+		154586F31A3CBC7C005F9A7E /* HomeChristmasTree.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = HomeChristmasTree.jpg; sourceTree = "<group>"; };
+		154586F51A3CC348005F9A7E /* NYC Christmas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "NYC Christmas.jpg"; sourceTree = "<group>"; };
+		154586F71A3CC5F9005F9A7E /* NYCViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NYCViewController.h; sourceTree = "<group>"; };
+		154586F81A3CC5F9005F9A7E /* NYCViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NYCViewController.m; sourceTree = "<group>"; };
+		154586FA1A3CEB61005F9A7E /* panda_friends_couple_christmas_sticker-ra755c015e1e54e9c8a68467fa3b048a7_v9wf3_8byvr_324.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "panda_friends_couple_christmas_sticker-ra755c015e1e54e9c8a68467fa3b048a7_v9wf3_8byvr_324.jpg"; sourceTree = "<group>"; };
+		154586FC1A3CED10005F9A7E /* TextViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextViewController.h; sourceTree = "<group>"; };
+		154586FD1A3CED10005F9A7E /* TextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextViewController.m; sourceTree = "<group>"; };
+		154586FF1A3CF2F1005F9A7E /* Christmas Verse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Christmas Verse.png"; sourceTree = "<group>"; };
+		154587011A3E3552005F9A7E /* NYC Christmas Tree.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NYC Christmas Tree.png"; sourceTree = "<group>"; };
+		154587031A3E3673005F9A7E /* Home Christmas Tree Cut.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home Christmas Tree Cut.png"; sourceTree = "<group>"; };
+		154587051A464CCB005F9A7E /* PandaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PandaViewController.h; sourceTree = "<group>"; };
+		154587061A464CCB005F9A7E /* PandaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PandaViewController.m; sourceTree = "<group>"; };
+		154587081A465075005F9A7E /* circle-512.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "circle-512.jpg"; sourceTree = "<group>"; };
+		1545870C1A466232005F9A7E /* panda head.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "panda head.jpg"; sourceTree = "<group>"; };
+		1573FF391A50F8DB005ABE6F /* DifficultyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DifficultyViewController.h; sourceTree = "<group>"; };
+		1573FF3A1A50F8DB005ABE6F /* DifficultyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DifficultyViewController.m; sourceTree = "<group>"; };
+		15E18B4D1A471591006CE39E /* christmas tree 2014 cropped.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "christmas tree 2014 cropped.jpg"; sourceTree = "<group>"; };
+		15E18B4F1A487780006CE39E /* squirrel-head-md.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "squirrel-head-md.png"; sourceTree = "<group>"; };
+		15F08D9A1A466D4B002A2AD2 /* snowflakes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = snowflakes.jpg; sourceTree = "<group>"; };
+		15F08D9C1A466D94002A2AD2 /* snowflakes flipped.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "snowflakes flipped.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +124,14 @@
 				154586D41A3CB720005F9A7E /* ViewController.h */,
 				154586D51A3CB720005F9A7E /* ViewController.m */,
 				154586D71A3CB720005F9A7E /* Main.storyboard */,
+				1573FF391A50F8DB005ABE6F /* DifficultyViewController.h */,
+				1573FF3A1A50F8DB005ABE6F /* DifficultyViewController.m */,
+				154587051A464CCB005F9A7E /* PandaViewController.h */,
+				154587061A464CCB005F9A7E /* PandaViewController.m */,
+				154586FC1A3CED10005F9A7E /* TextViewController.h */,
+				154586FD1A3CED10005F9A7E /* TextViewController.m */,
+				154586F71A3CC5F9005F9A7E /* NYCViewController.h */,
+				154586F81A3CC5F9005F9A7E /* NYCViewController.m */,
 				154586DA1A3CB720005F9A7E /* Images.xcassets */,
 				154586DC1A3CB720005F9A7E /* LaunchScreen.xib */,
 				154586D11A3CB720005F9A7E /* Christmas_Card.xcdatamodeld */,
@@ -99,6 +143,18 @@
 		154586CA1A3CB71F005F9A7E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				15E18B4F1A487780006CE39E /* squirrel-head-md.png */,
+				15E18B4D1A471591006CE39E /* christmas tree 2014 cropped.jpg */,
+				15F08D9C1A466D94002A2AD2 /* snowflakes flipped.jpg */,
+				15F08D9A1A466D4B002A2AD2 /* snowflakes.jpg */,
+				1545870C1A466232005F9A7E /* panda head.jpg */,
+				154587081A465075005F9A7E /* circle-512.jpg */,
+				154587031A3E3673005F9A7E /* Home Christmas Tree Cut.png */,
+				154587011A3E3552005F9A7E /* NYC Christmas Tree.png */,
+				154586FF1A3CF2F1005F9A7E /* Christmas Verse.png */,
+				154586FA1A3CEB61005F9A7E /* panda_friends_couple_christmas_sticker-ra755c015e1e54e9c8a68467fa3b048a7_v9wf3_8byvr_324.jpg */,
+				154586F51A3CC348005F9A7E /* NYC Christmas.jpg */,
+				154586F31A3CBC7C005F9A7E /* HomeChristmasTree.jpg */,
 				154586CB1A3CB71F005F9A7E /* Info.plist */,
 				154586CC1A3CB720005F9A7E /* main.m */,
 			);
@@ -171,6 +227,7 @@
 				TargetAttributes = {
 					154586C61A3CB71F005F9A7E = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = X9RG3USZ99;
 					};
 					154586E21A3CB720005F9A7E = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -203,8 +260,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				154586D91A3CB720005F9A7E /* Main.storyboard in Resources */,
+				15F08D9B1A466D4B002A2AD2 /* snowflakes.jpg in Resources */,
+				15E18B4E1A471591006CE39E /* christmas tree 2014 cropped.jpg in Resources */,
+				154587021A3E3552005F9A7E /* NYC Christmas Tree.png in Resources */,
+				154586F61A3CC348005F9A7E /* NYC Christmas.jpg in Resources */,
 				154586DE1A3CB720005F9A7E /* LaunchScreen.xib in Resources */,
+				154587091A465075005F9A7E /* circle-512.jpg in Resources */,
+				15F08D9D1A466D94002A2AD2 /* snowflakes flipped.jpg in Resources */,
+				1545870D1A466232005F9A7E /* panda head.jpg in Resources */,
+				15E18B501A487780006CE39E /* squirrel-head-md.png in Resources */,
 				154586DB1A3CB720005F9A7E /* Images.xcassets in Resources */,
+				154587001A3CF2F1005F9A7E /* Christmas Verse.png in Resources */,
+				154586FB1A3CEB61005F9A7E /* panda_friends_couple_christmas_sticker-ra755c015e1e54e9c8a68467fa3b048a7_v9wf3_8byvr_324.jpg in Resources */,
+				154586F41A3CBC7C005F9A7E /* HomeChristmasTree.jpg in Resources */,
+				154587041A3E3673005F9A7E /* Home Christmas Tree Cut.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,10 +291,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				154586F91A3CC5F9005F9A7E /* NYCViewController.m in Sources */,
 				154586D01A3CB720005F9A7E /* AppDelegate.m in Sources */,
 				154586D31A3CB720005F9A7E /* Christmas_Card.xcdatamodeld in Sources */,
+				154587071A464CCB005F9A7E /* PandaViewController.m in Sources */,
+				154586FE1A3CED10005F9A7E /* TextViewController.m in Sources */,
 				154586D61A3CB720005F9A7E /* ViewController.m in Sources */,
 				154586CD1A3CB720005F9A7E /* main.m in Sources */,
+				1573FF3B1A50F8DB005ABE6F /* DifficultyViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,9 +420,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Christmas Card/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -357,9 +433,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Christmas Card/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -416,6 +495,7 @@
 				154586EF1A3CB720005F9A7E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		154586F01A3CB720005F9A7E /* Build configuration list for PBXNativeTarget "Christmas CardTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +504,7 @@
 				154586F21A3CB720005F9A7E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
